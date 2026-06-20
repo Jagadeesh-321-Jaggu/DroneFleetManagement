@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DroneFleetManagement</string>
+    <string-array name="filter_options">
+        <item>All</item>
+        <item>Flying</item>
+        <item>Idle</item>
+        <item>Charging</item>
+    </string-array>
+
+    <string-array name="sort_options">
+        <item>Default</item>
+        <item>High To Low</item>
+        <item>Low To High</item>
+    </string-array>
+</resources>
